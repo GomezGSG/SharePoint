@@ -3,4 +3,4 @@
 ## Previous Sharepoint Navigation
 
 
-![Navigation cluttered through subsites](images/nav1.png)
+![Navigation cluttered through subsites](images/nav1.PNG)
